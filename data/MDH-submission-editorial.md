@@ -1,4 +1,4 @@
-# Submission/Editorial Process for MathDataHub (First Thoughts)
+# Submission/Editorial Process for data.mathhub.info (First Thoughts)
 
 **Manifest**: This is a working document capturing the discussions at the
 [Math Data Workshop](https://opendreamkit.org/2019/08/17/WorkshopOnDataInMathematics/).
@@ -8,7 +8,7 @@
 **Date**: August 2019. 
 
 ## 1. Background
-The [MathDataHub System (MDH)](htp://mdhalpha.mathhub.info) collects Mathematical Data sets. The data sets are described formally via a
+The [data.mathhub.info System (MDH)](htp://mdhalpha.mathhub.info) collects Mathematical Data sets. The data sets are described formally via a
 
 1. **schema theory** that describes the database schema and its relation to the mathematics,
 2. a (flexible) **formalization of the mathematical background theory**, 
