@@ -2,12 +2,12 @@
 
 ## MathHub Build Processes/Workflows
 
-As MathHub content is authored in human-oriented [[surface formats|surface-formats]], but processed in
-[[OMDoc/MMT|omdoc-mmt]], MathHub needs to support the conversion and change/conflict
+As MathHub content is authored in human-oriented [surface formats](surface-formats), but processed in
+[OMDoc/MMT](omdoc-mmt), MathHub needs to support the conversion and change/conflict
 propagation processes between the formats.
 
 The **MathHub build system** manages conversion processes triggered in a
-[[MathHub worker|workers]]. There are essentially two reasons
+[MathHub worker](workers). There are essentially two reasons
 to trigger a re-build, which correspond to the two development workflows
 supported by MathHub.
 
@@ -23,12 +23,12 @@ pipelines, triggers them, parses the generated log files, aggregates the error a
 messages, and presents them to the user.
 
 ## Managed Content
-Recall that [[MathHub archives|math-archives]] contain a `source` dimension, a subdir with files in the [[surface formats|surface-formats]] and various others derived from that (**generated content**). The sole purpose of the build system is to derive and update the generated content from the sources. There are multiple ways of doing that. MathHub adopts a potentially distributed build architecture that uses the [[MathHub archives|math-archives]] as the hub and [GIT](https://git-scm.com) as the distribution mechanism. 
+Recall that [MathHub archives](math-archives) contain a `source` dimension, a subdir with files in the [surface formats](surface-formats) and various others derived from that (**generated content**). The sole purpose of the build system is to derive and update the generated content from the sources. There are multiple ways of doing that. MathHub adopts a potentially distributed build architecture that uses the [MathHub archives](math-archives) as the hub and [GIT](https://git-scm.com) as the distribution mechanism. 
 
-In a nutshell, generated content is pushed to the [[MathHub archives|math-archives]] (without keeping history), and can be pulled by anyone - including the MathHub system itself: the [MathHub.info portal](http://mathhub.info) always displays the current status of the [[MathHub archives|math-archives]].
+In a nutshell, generated content is pushed to the [MathHub archives](math-archives) (without keeping history), and can be pulled by anyone - including the MathHub system itself: the [MathHub.info portal](http://mathhub.info) always displays the current status of the [MathHub archives](math-archives).
 
 ## The MathHub Curation System
-Given the managed content system, [[MathHub Curators|roles]] will pull the [[MathHub archives|math-archives]] they are responsible for, build generated content, e.g. via the [MMT build system](http://uniformal.github.io) and push it to the archive. 
+Given the managed content system, [MathHub Curators](roles) will pull the [MathHub archives](math-archives) they are responsible for, build generated content, e.g. via the [MMT build system](http://uniformal.github.io) and push it to the archive. 
 
 ## The MathHub Build System (outdated)
 
@@ -37,6 +37,6 @@ The build system described here no longer exists. But the concepts/architecture 
 The **MathHub build system** automates the curation system described above into a separated process. It is essentially a front-end to the [MMT build system](http://uniformal.github.io), which does all the dependency managment, maintains a [build queue](https://mathhub.info/mh/mmt/buildqueue.html), and a (developer-oriented) [error viewer](https://mathhub.info/mh/mmt/errorview.html). MathHub itself only adds
 
   - a [build manager](https://mathhub.info/mh/mbt-rebuild) that exposes the
-    [[build targets|build-targets]], build strategy, and affected libraries to the MathHub
+    [build targets](build-targets), build strategy, and affected libraries to the MathHub
     admin and
   - an [library-admin centric error viewer](https://mathhub.info/mh/common-errors).

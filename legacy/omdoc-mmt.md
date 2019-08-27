@@ -1,12 +1,12 @@
 # OMDoc/MMT in MathHub
 
 The uniform representation format for
-[[flexiformal|FlexiForms]] content in
+[flexiformal](FlexiForms) content in
 [MathHub](https://mathhub.info)is the **OMDoc**/**MMT** format.
 
 [OMDoc](http://omdoc.org/) (**O**pen **M**athematical **Doc**uments) is
 a content-oriented representation format for
-[[flexiformal|FlexiForms]] mathematical knowledge and
+[flexiformal](FlexiForms) mathematical knowledge and
 documents. The content is represented at three levels:
 
 1.  **object level** (mathematical formulae and phrases)

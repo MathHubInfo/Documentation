@@ -12,7 +12,7 @@ Metadata and documentation occur at three levels:
     the respective GitLab group or namespace. This repository contains
     the `MANIFEST.MF` file with metadata and additional files with HTML5
     fragments for documentation.
-3.  at the level of **[[math archives|math-archives]]**
+3.  at the level of **[math archives](math-archives)**
     metadata is given in the metadata file `MANIFEST.MF` and additional
     HTML5 fragment files in the `META-INF` dimension.
 
@@ -24,7 +24,7 @@ For the content of the `MANIFEST.MF` we consider an example:
     teaser:The special language to express mathematical knowledge
     responsible: kolhlhase@kwarc.info
 
-We have elided the [[math archive metadata|math-archives]]
+We have elided the [math archive metadata](math-archives)
 here. The other metadata are given in the form of a key:value property
 list.
 

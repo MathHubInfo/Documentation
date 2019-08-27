@@ -1,7 +1,7 @@
 # MathHub Surface Formats
 
-[[Flexiformal|FlexiForms]] content in MathHub can be
-[[authored|authoring]] in various **surface formats** better
+[Flexiformal](FlexiForms) content in MathHub can be
+[authored](authoring) in various **surface formats** better
 suited for human manipulation.
 
 MathHub currently supports the following five surface formats natively:
@@ -20,5 +20,5 @@ libraries](/libraries) imported into MathHub are handled by special
 importers on a system-by-system basis.
 
 Flexiformal content authored in any of these surface formats can is
-[[converted|build-system]] to [[OMDoc/MMT|omdoc-mmt]] format for
-[[interoperability|interoperability]] and processing in MathHub.info.
+[converted](build-system) to [OMDoc/MMT](omdoc-mmt) format for
+[interoperability](interoperability) and processing in MathHub.info.

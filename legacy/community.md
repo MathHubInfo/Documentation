@@ -2,10 +2,10 @@
 
 [MathHub](https://mathhub.info).info is a community portal that collects
 formal and semi-formal representations of knowledge
-([[FlexiForms|FlexiForms]]) from all walks of life...
+([FlexiForms](FlexiForms)) from all walks of life...
 
   - [Developers](https://github.com/KWARC/MathHub/graphs/contributors)
-  - [[Funding|funding]]
+  - [Funding](funding)
   - [MathHub](https://mathhub.info) Mailing Lists
       - for ***general discussion***: <users@mathhub.info>
         ([subscribe/archives](http://lists.informatik.uni-erlangen.de/mailman/listinfo/mathhub))

@@ -1,6 +1,6 @@
 # MathHub Data Collections
 
-A **mathematical data colletion** is a regular [[MathHub Library|libraries]] with [[MDDL schema theories|MDDL]]. 
+A **mathematical data colletion** is a regular [MathHub Library](libraries) with [MDDL schema theories](MDDL). 
 It consists of 
 - **MDDL archives** for the schema theories. The main one is usually just called `mddl`.
 - **VT archives** for the virtual theories generated from the `mddl` archive, the main one is usually called `vt`   

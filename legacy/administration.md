@@ -4,17 +4,17 @@ Here we document the workflows of [MathHub](http:/mathhub.info)
 administrators, i.e. users who have [rights to Mathhub admin](http://mathhub.info/admin).
 We assume that the admins are familiar with the [MMT system](https://uniformal.github.io/doc/) our main knowledge management system and basic [GIT](https://git-scm.com/) workflows. We will concentrate on MathHub-specific workflows here. 
 
-### 1\. Adding a new [[MathHub Library|libraries]] or [[Data Collection|datacollections]]
+### 1\. Adding a new [MathHub Library](libraries) or [Data Collection](datacollections)
 
 Make sure that you have a well-configured MathHub Library, i.e. a group on
 <http://gl.mathhub.info>
 1. [make a new group](https://gl.mathhub.info/groups/new) (public, with good descriptions)
 2. [make a `meta-inf` repository](https://gl.kwarc.info/projects/new) in this group with a valid `GROUP_MANIFEST.MF` file which has `title`, `teaser`, `description`, and `responsible` fields.
-3.  There must be at least one valid [[math archive|math-archives]] in the group (see below)
+3.  There must be at least one valid [math archive](math-archives) in the group (see below)
 
-### 2\. Adding a [[Math Archive|math-archives]] to MathHub
+### 2\. Adding a [Math Archive](math-archives) to MathHub
 
-[make a repository](https://gl.kwarc.info/projects/new) to make it a [[valid math archive|math-archives]] you need to 
+[make a repository](https://gl.kwarc.info/projects/new) to make it a [valid math archive](math-archives) you need to 
 1. create a file `META-INF/MANIFEST.MF` file which has `title`, `teaser`,`description`, and `responsible` fields.
 2. add a short description as a HTML paragraph (`<p>` as the top element) in `META-INF/desc.html`
 3. create a `source` subdirectory. All files you will write (e.g. in MMT surface syntax or sTeX) should be here. 

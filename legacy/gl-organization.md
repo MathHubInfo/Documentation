@@ -4,7 +4,7 @@ The MathHub repositories are managed via an instance of
 [GitLab](http://gitlab.org) whose accounts and access groups are
 synchronized with the [MathHub.info](http://mathhub.info) portal. A
 description of MathHub worflows can be found
-[[here|lmh-workflows]].
+[here](lmh-workflows).
 
 ### Content Layout of [GL.MathHub.info](http://gl.mathhub.info)
 
@@ -43,7 +43,7 @@ A MathHub repository contains the following files at top level:
 ### Layout of a Local MathHub Working Copy
 
 Given sufficient permissions, users can check out a local working copy
-with MathHub repositories for [[local editing|lmh-workflows]].
+with MathHub repositories for [local editing](lmh-workflows).
 The local working copy is in a directory `.../localmh` to which we will
 refer to it with the meta-variable `<LMHDIR>` in the following. It
 contains the files and subdirectories

@@ -4,10 +4,10 @@ To enhance visibility and create an academic reward system for young
 researchers, [MathHub](https://mathhub.info) will organize a review
 system for formalizations akin to the scientific review system.
 
-  - Open Rating System for [[FlexiForms|FlexiForms]]
+  - Open Rating System for [FlexiForms](FlexiForms)
     
     [MathHub.info](https://mathhub.info) will feature an open rating
-    system for [[FlexiForms|FlexiForms]], which is driven by a
+    system for [FlexiForms](FlexiForms), which is driven by a
     [/.](http://slashdot.org)-like discussion system.
     [MathHub](https://mathhub.info) members can comment on
     [MathHub](https://mathhub.info) contributions, make suggestions, and
@@ -31,12 +31,12 @@ system for formalizations akin to the scientific review system.
     
     The *[MathHub](https://mathhub.info) Notices* will be an electronic
     periodical dedicated to the formal peer review and dissemination of
-    [[FlexiForms|FlexiForms]]. It will be managed by an
+    [FlexiForms](FlexiForms). It will be managed by an
     international editorial board, which will also determine the
     publication period and volume size. Both will be restricted, so that
     acceptance rates are competitive with international journals.
-    [[...more|/planetary/ticket/182]]
+    [...more](/planetary/ticket/182)
     
-    [[FlexiForms|FlexiForms]] will be reviewed with respect to
+    [FlexiForms](FlexiForms) will be reviewed with respect to
     their technical quality, novelty, methodical innovation, and their
     reuse factor.

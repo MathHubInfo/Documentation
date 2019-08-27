@@ -1,6 +1,6 @@
 # MathHub Library Committee
 
-[[MathHub](https://mathhub.info) [libraries|libraries]] are
+[MathHub](https://mathhub.info) [libraries](libraries) are
 public resources of flexiformal documents usually developed and
 maintained by a community.
 

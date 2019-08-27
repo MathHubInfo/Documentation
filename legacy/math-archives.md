@@ -11,14 +11,14 @@ archives in the [MathHub GitLab Server](http://gl.mathhub.info).
 The dimensions of a Math Archive include (other dimensions are possible,
 but are not standardized in MathHub)
 
-1.  `source`: the human-editable [[surface language representations|surface-formats]].
-2.  `content`: the [[OMDoc/MMT|omdoc-mmt]] generated from the
+1.  `source`: the human-editable [surface language representations](surface-formats).
+2.  `content`: the [OMDoc/MMT](omdoc-mmt) generated from the
     `source` dimension.
 3.  `narration`:
 4.  `presentation`:
 5.  `relational`:
 6.  `errors`: the errors encountered by the compilation pipelines organized into
-    subdirectories by the [[build targets|build-targets]] that produced them.
+    subdirectories by the [build targets](build-targets) that produced them.
 7.  `export`: ??????
 8.  `latexml`: the [OMDoc 1.3](http://www.omdoc.org/OMDoc1.3/) version
     of the `source` dimension.

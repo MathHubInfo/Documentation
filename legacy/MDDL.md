@@ -6,7 +6,7 @@ The MDDL allows mathematical data set creators to describe the meaning of mathem
 - **codecs** (encoders/decode pairs) that mediate between them, and finally
 - **schema theories** that bind all of them together, and provide metadata-based hints for infrastruture generation. 
 
-All of these are regular flexiformal theories, that can make use of the existing MathHub libraries. Consequently, a [[mathematical data colletions|datacollections]] are regular [[MathHub Library|libraries]] with MDDL schema theories. 
+All of these are regular flexiformal theories, that can make use of the existing MathHub libraries. Consequently, a [mathematical data colletions](datacollections) are regular [MathHub Library](libraries) with MDDL schema theories. 
 - **MDDL archives** for the schema theories. The main one is usually just called `mddl`.
 - **VT archives** for the virtual theories generated from the `mddl` archive, the main one is usually called `vt`   
  

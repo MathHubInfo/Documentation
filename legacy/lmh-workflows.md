@@ -20,7 +20,7 @@ lmh install group/repo
 </div>
 
 where `group` is the repository group on [GL.MathHub.info](http://GL.MathHub.info) and `repos` the repository
-name ([[details|gl-organization]]). For instance for the SMGloM repository:
+name ([details](gl-organization)). For instance for the SMGloM repository:
 
 <div>
 
