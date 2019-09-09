@@ -21,14 +21,14 @@ This is the entry point to the documentation for MathHub Data.
 
 - Codecs
     * View
-    * *********/Edit
+    * Add/Edit
 - MitM, MMT
 
 ## Developer
 
 - Installation
 - Code Structure, API
-- Deployment structure/*********/
+- Deployment structure/Methods
 - Codecs
     * Presenters/Interface
     * Add/Edit
