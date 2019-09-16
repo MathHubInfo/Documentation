@@ -8,14 +8,14 @@ The datasets are available as virtual theories.
 These abstract from the storage level and are well-integrated with mathematical documents and knowledge on MathHub.
 
 The infrastructure provided by MathHub Data includes storage and a searchable interface for datasets. 
-The team is setting up a dataset [submission process](submission-editorial.md) that will involve peer review, 
+The team is setting up a dataset [submission process](overview/submission-editorial.md) that will involve peer review, 
 and thus improve the reliability of published data.
 
 - **Dataset authors** can specify the meaning of mathematical objects and their database encoding via 
-[MDDL schema theories](MDDL), based on mathematical background knowledge already on MathHub,
+[MDDL schema theories](overview/MDDL), based on mathematical background knowledge already on MathHub,
 - **Users** can interact with data set objects as with any other objects on MathHub via the MathHub front-end, tools, and APIs. 
 
 The MathHub Data setup ensures 
 - long-term availability of the data 
 - user interfaces, APIs, and interoperability at the database level **and the mathematical lavel** 
-- [license](ip) and [provenance](provenance) management.
+- [license](overview/IntellectualProperty.md) and [provenance](provenance) management.
