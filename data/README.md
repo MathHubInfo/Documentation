@@ -18,4 +18,4 @@ and thus improve the reliability of published data.
 The MathHub Data setup ensures 
 - long-term availability of the data 
 - user interfaces, APIs, and interoperability at the database level **and the mathematical level** 
-- [license](overview/IntellectualProperty.md) and [provenance](provenance) management.
+- [license](overview/IntellectualProperty.md) and provenance management.
