@@ -4,4 +4,4 @@ See also [the legacy Wiki pages](legacy/Home).
 
 ## Data MathHub.info
 
-* [Submission and editorial process](data/MDH-submission-editorial.md)
+* [Submission and editorial process](data/overview/submission-editorial.md)
