@@ -12,7 +12,7 @@ The infrastructure provided by MathHub Data includes storage and a searchable in
 Joe has a simple [matrix dataset](https://joe.discretezoo.xyz/) and wants to submit it to MathHub Data.
 This is going to be a little more work than just putting it on his website,
 but he is convinced that the benefits will easily outweigh the extra work.
-He first contacts one of the [MathHub Data editors](submission-editorial.md#3-people-involved-and-their-roles) 
+He first contacts one of the [MathHub Data editors](submission-editorial.md#people-involved-and-their-roles) 
 and sends them a description of his dataset (in paragraph or a few paragraphs, as needed).
 It could look a little bit like the following.
 
@@ -23,7 +23,7 @@ It could look a little bit like the following.
 
 The dataset is accepted and the editor guides Joe through the submission process.
 Joe first describes the structure of his dataset with the help of 
-[MathHub Data knowledge engineers](submission-editorial.md#3-people-involved-and-their-roles) 
+[MathHub Data knowledge engineers](submission-editorial.md#people-involved-and-their-roles) 
 The end result is a 
 [schema theory for the matrix dataset](https://gl.mathhub.info/ODK/mbgen/blob/master/source/matrix_schema.mmt).
 The main content of this description is a list of mathematical properties or invariants used in the dataset:
