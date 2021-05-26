@@ -28,6 +28,8 @@ Possibly more could be found on [EUDAT](https://b2share.eudat.eu/).
 
 * Gordon Royle asked [What are some early examples of creation of lists / catalogues of (particularly) combinatorial objects?](https://mathoverflow.net/questions/47044/what-are-some-early-examples-of-creation-of-lists-catalogues-of-particularly)
 
+* Sebastien Palcoux asked about [Atlas-like websites on specific areas of mathematics](https://mathoverflow.net/questions/354327/atlas-like-websites-on-specific-areas-of-mathematics/354606)
+
 Look for keywords such as
 [atlas](https://mathoverflow.net/search?q=atlas),
 [census](https://mathoverflow.net/search?q=census),
@@ -54,11 +56,27 @@ Unsorted resources:
 * [Complexity ZOO](https://complexityzoo.uwaterloo.ca)
 * [A compendium of NP optimization problems](http://www.nada.kth.se/~viggo/problemlist/compendium.html)
 * [Graph Classes](http://www.graphclasses.org)
+* [Quantum algorithm zoo](https://quantumalgorithmzoo.org/)
+* [Bilbao Crystallographic Server](https://www.cryst.ehu.es)
+* [Googology Wiki](https://googology.wikia.org/wiki/Googology_Wiki), an online encyclopedia and community dedicated to large numbers.
+* [Forking and dividing](http://forkinganddividing.com), a map of the model theory universe, visually classifying some 63 first-order theories.
+* [Dispersive PDE Wiki](https://kvm16.pims.math.ca/DispersiveWiki/index.php?title=Main_Page)
+* [WikiWaves](https://wikiwaves.org/)
+* [Reverse Mathematics Zoo](https://rmzoo.math.uconn.edu)
+* [Small Ramsey Numbers](https://www.combinatorics.org/ojs/index.php/eljc/article/view/DS1/pdf)
+* [The Cunningham Project](https://homes.cerias.purdue.edu/~ssw/cun/)
+* [Le superficie algebriche](https://superficie.info), a tool to visually study the geography of (minimal) complex algebraic smooth surfaces by Enriques.
+* [The PrimePages: prime number research & records](https://primes.utm.edu)
+* [Enumerating Order Types for Small Point Sets with Applications](http://www.ist.tugraz.at/staff/aichholzer/research/rp/triangulations/ordertypes/) ([background paper](https://link.springer.com/article/10.1023/A%3A1021231927255))
+* [Table on the existence of absolutely maximally entangled states](https://www.tp.nt.uni-siegen.de/+fhuber/ame.html)
+
 
 ## Other kinds of mathematical data
 
 * [The TPTP Problem Library for Automated Theorem Proving](http://tptp.org/)
 * SMTPlib
+
+The Bilbao Crystallographic Server offers crystallographic and solid state programs and utilities, which are grouped into shells.
 
 # <a name="Index">Index</a>
 
@@ -326,7 +344,10 @@ http://www.gap-system.org/Datalib/datalib.html
 #### 3. SageMath databases
 http://doc.sagemath.org/html/en/reference/databases/index.html
 
+#### 4. Regina and SnapPy
 
+* [Regina - Supporting Data](https://regina-normal.github.io/data.html): knot tables, 3-manifold census data, Weber-Seifert dodecahedral space
+* [SnapPy Census Manifolds](https://www.math.uic.edu/t3m/SnapPy/censuses.html)
 
 # <a name="Features">Collection features, classification</a>
 
