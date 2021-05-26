@@ -1,6 +1,12 @@
-### Contents
+# The MathDB Catalogue
+
+The MathDB catalogue is a list of mathematical collections and databases. 
+It was started at [KWARC](https://kwarc.info) by [Katja Berčič](https://www.fmf.uni-lj.si/en/directory/742/bercic-katja/),
+primarily to help design [MathDataHub](https://data.mathhub.info).
 
 The main contents of the catalogue are available as an overview table at [mathdb.mathhub.info](https://mathdb.mathhub.info/).
+This page serves as a place to keep information that needs to still be entered into the table, 
+or that simply does not fit into the table.
 
 Collections and databases that are not yet entered in the overview table are listed in the section [TODO](#TODO).
 
@@ -11,13 +17,12 @@ If you have a collection or database that is not contained in a catalogue, let m
 I will also be very grateful for any other comments you might have.
 
 To do so, please open an [issue](https://github.com/MathHubInfo/Documentation/issues) with a label `math db`.
-For other ways of contacting me, see [my FAU page](https://kwarc.info/people/kbercic/)
 
-### <a name="TODO">TODO</a>
+## <a name="TODO">TODO</a>
 
 Possibly more could be found on [EUDAT](https://b2share.eudat.eu/).
 
-#### MathOverflow
+### MathOverflow
 
 * Timothy Gowers asked [What could be some potentially useful mathematical databases](https://mathoverflow.net/questions/68442/what-could-be-some-potentially-useful-mathematical-databases)
 
@@ -39,7 +44,7 @@ Unsorted resources:
 * [Distributome](http://www.distributome.org/)
 * [The Multiply Perfect Numbers Page](http://wwwhomes.uni-bielefeld.de/achim/mpn.html)
 
-#### Miscelaneous
+### Miscelaneous
 
 * [Software Heritage](https://www.softwareheritage.org/)
 * [Oberwolfach References on Mathematical Software](https://orms.mfo.de/)
@@ -50,12 +55,12 @@ Unsorted resources:
 * [A compendium of NP optimization problems](http://www.nada.kth.se/~viggo/problemlist/compendium.html)
 * [Graph Classes](http://www.graphclasses.org)
 
-### Other kinds of mathematical data
+## Other kinds of mathematical data
 
 * [The TPTP Problem Library for Automated Theorem Proving](http://tptp.org/)
 * SMTPlib
 
-## <a name="Index">Index</a>
+# <a name="Index">Index</a>
 
 ### [Database Requirements](#Requirements)
 
